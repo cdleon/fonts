@@ -6,6 +6,13 @@
 - [FiraCode](https://github.com/tonsky/FiraCode)  - Monospaced font with programming ligatures.
 - [Fonts.css](https://github.com/zenozeng/fonts.css)  - OS Fonts in your browser [https://zenozeng.github.io/fonts.css/](https://zenozeng.github.io/fonts.css/)
 
+## Guides
+
+- [Beautiful Web Type](https://beautifulwebtype.com/) - Guide to Only the Best Open-Source Typefaces.
+- [Minimal Wim](https://raffinaderij.booreiland.amsterdam/minimalwim/) - A grid-based typography experiment based on the work of Wim Crouwel.
+- [Optimizing Google Fonts Performance](https://www.smashingmagazine.com/2019/06/optimizing-google-fonts-performance/) - Google Fonts are easy to implement, but they can have a big impact on your page load times. Let’s explore how we can load them in the most optimal way.
+- [The birth of Inter](https://www.figma.com/blog/the-birth-of-inter/#where-did-you-decide-to-start) - How the new open-source typeface used by GitHub and Mozilla came to be.
+
 ## Libraries
 
 - [Font Squirrel](https://www.fontsquirrel.com/) - Free fonts have met their match. We know how hard it is to find quality freeware that is licensed for commercial work. We've done the hard work, hand-selecting these typefaces and presenting them in an easy-to-use format. [https://www.fontsquirrel.com/](https://www.fontsquirrel.com/)
